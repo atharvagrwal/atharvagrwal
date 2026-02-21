@@ -2,7 +2,7 @@
 
 ## About Me  
 
-I'm a Computer Science student at OTH Regensburg with a strong interest in software engineering, AI-driven systems, and high-performance computing.  
+I'm a Computer Science student with a strong interest in software engineering, AI-driven systems, and high-performance computing.  
 
 I enjoy building structured backend systems, full-stack web applications, and working on performance-oriented projects. From developing a full-stack blogging platform to implementing GPU-based parallel computing solutions, I’m always motivated to understand how systems work under the hood.
 
