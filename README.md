@@ -57,6 +57,12 @@ I like solving real-world problems through clean, efficient code and continuousl
 
 ---
 
+<p align="center">
+ <img width="1000" src="asset/github-snake.svg" alt="snake"/>
+</p>
+
+---
+
 ### Connect with Me  
 
 <p align="center">
