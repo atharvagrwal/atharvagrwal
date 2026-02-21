@@ -12,17 +12,12 @@ I like solving real-world problems through clean, efficient code and continuousl
 
 ## Languages and Tools  
 
-### Programming Languages:
+### Programming Languages
 
 | Java | C++ | Python | JavaScript | SQL | CUDA | Bash |
-|----------|----------|----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="55" height="55"/> |
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="55" height="55"/> |
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55" height="55"/> |
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"/> |
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="55" height="55"/> |
-<img src="https://github.com/devicons/devicon/blob/master/icons/nvidia/nvidia-original.svg" width="55" height="55"/> |
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="55" height="55"/> |
+|---|---|---|---|---|---|---|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nvidia/nvidia-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="55"/> |
+
 
 
 ---
