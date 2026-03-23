@@ -57,6 +57,11 @@ I like solving real-world problems through clean, efficient code and continuousl
 </p>
 
 ---
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=atharvagrwal&style=for-the-badge&color=orange" alt="profile views"/>
+</div>
+
+---
 
 <p align="center">
  <img width="1000" src="asset/github-snake.svg" alt="snake"/>
